@@ -1,4 +1,6 @@
 # acs-kernel-build
+Arch Linux kernel with ACS patches applied. Further separates IOMMU groups which
+can be desirable when setting up VFIO passthrough.
 
 ## makepkg performance
 source: https://wiki.archlinux.org/index.php/Makepkg
